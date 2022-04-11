@@ -440,6 +440,7 @@ export default {
   &.is-not-in-month * {
     opacity: 0;
     pointer-events: none;
+    background-color: #000000;
   }
 }
 
