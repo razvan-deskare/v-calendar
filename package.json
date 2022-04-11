@@ -18,7 +18,7 @@
     "dev": "vuepress dev docs",
     "test": "vue-cli-service test:unit --watch"
   },
-  "main": "lib/v-calendar.umd.min.js",
+  "main": "dist/index.js",
   "files": [
     "src",
     "lib"
